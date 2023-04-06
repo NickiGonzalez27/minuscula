@@ -1,0 +1,28 @@
+.body {
+    background: rgb(45,123,187);
+background: linear-gradient(95deg, rgba(45,123,187,1) 16%, rgba(176,20,127,1) 92%); ;
+}
+
+.color {
+    background: rgb(45,123,187);
+    background: linear-gradient(95deg, rgba(45,123,187,1) 16%, rgba(176,20,127,1) 92%);
+}
+.texto2 {
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+  
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+.pie {
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    
+}
+  

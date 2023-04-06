@@ -1,0 +1,44 @@
+#countdown div > span {
+  font-size: 80px;
+  margin: 0 10px;
+}
+
+#countdown div > .smalltext {
+  font-size: 16px;
+  text-align: center;
+}
+
+.volver {
+    display: block;
+    margin: 0 auto;
+  }
+
+@media only screen and (max-width: 768px) {
+  #countdown div > span {
+    font-size: 40px;
+    margin: 0 5px;
+  }
+
+  #countdown div > .smalltext {
+    font-size: 12px;
+  }
+}
+
+
+
+.body {
+    background: rgb(45,123,187);
+    background: linear-gradient(95deg, rgba(45,123,187,1) 16%, rgba(176,20,127,1) 92%);
+}
+
+.link {
+  text-decoration:none;
+  color: white;
+}
+
+.info {
+  background-color: #0f130c;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+  border-radius: 30px;
+}
+

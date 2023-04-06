@@ -1,0 +1,48 @@
+.body {
+    background: rgb(45,123,187);
+background: linear-gradient(95deg, rgba(45,123,187,1) 16%, rgba(176,20,127,1) 92%);
+      }
+
+      @keyframes gradient {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+
+      .list-group {
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 20px;
+        border-radius: 10px;
+        border: 2px none;
+      }
+
+      .list-group-item {
+        border: 2px none;
+      }
+.barra {
+background-color: black;
+}
+
+.color {
+    background: rgb(45,123,187);
+    background: linear-gradient(95deg, rgba(45,123,187,1) 16%, rgba(176,20,127,1) 92%);
+    
+}
+
+.menu {
+  border: 1px solid black;
+}
+
+.texto2 {
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+  
+}
+
+
+

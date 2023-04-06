@@ -1,0 +1,19 @@
+.body {
+    background: rgb(45,123,187);
+background: linear-gradient(95deg, rgba(45,123,187,1) 16%, rgba(176,20,127,1) 92%); ;
+}
+
+
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+.texto2 {
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    
+}
